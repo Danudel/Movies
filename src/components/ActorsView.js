@@ -31,7 +31,11 @@ class Actors extends React.Component {
     render() {
         const ActorsCards = []; 
         for (let i = 0; i < this.props.actors.length; i++) {
-
+            let fullname= this.props.actors[i].fname+this.props.actors[i].lname;
+            fullname= fullname.toLowerCase();
+            if (! fullname.includes(this.state.filteredSearch)){
+                continue
+            }
             const cardContent = 
                 <Col sm={4} style={{padding: '25px'}}>
                     <Card style={{ borderRadius: 15, height: '40rem', width: '20rem' }}>
