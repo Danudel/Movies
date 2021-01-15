@@ -2,7 +2,7 @@ import React from 'react';
 import Card from 'react-bootstrap/Card'
 import Button from 'react-bootstrap/Button';
 import { CardDeck, Col } from 'react-bootstrap';
-import Actor from '../data-models/Actor';
+
 
 
 class Actors extends React.Component {
