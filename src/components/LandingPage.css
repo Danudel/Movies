@@ -1,0 +1,16 @@
+.welcome-img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  height: 70%;
+  opacity: 0.7;
+
+}
+
+h1{
+text-align: center;
+padding-top: 35px;
+font-family: cursive;
+font-weight: bolder;
+}

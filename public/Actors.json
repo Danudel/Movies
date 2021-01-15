@@ -4,5 +4,5 @@
 {"fname": "Anne","lname" :"Hathaway", "birthday": "1982/11/12", "img": "https://m.media-amazon.com/images/M/MV5BMTRhNzQ3NGMtZmQ1Mi00ZTViLTk3OTgtOTk0YzE2YTgwMmFjXkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_UY317_CR20,0,214,317_AL_.jpg", "imdb": "https://www.imdb.com/name/nm0004266/?ref_=nv_sr_srsg_6"},
 {"fname": "Rowan", "lname": "Atkinson","birthday": "1955/1/6", "img": "https://m.media-amazon.com/images/M/MV5BMTg3NDUzOTc3MV5BMl5BanBnXkFtZTcwNjcxMDkxNw@@._V1_UY317_CR0,0,214,317_AL_.jpg", "imdb":"https://www.imdb.com/name/nm0000100/"},
 {"fname":"Ryan", "lname":"Gosling", "birthday":"1980/11/12", "img": "https://m.media-amazon.com/images/M/MV5BMTQzMjkwNTQ2OF5BMl5BanBnXkFtZTgwNTQ4MTQ4MTE@._V1_UY317_CR18,0,214,317_AL_.jpg", "imdb": "https://www.imdb.com/name/nm0331516/?ref_=nv_sr_srsg_0"},
-{"fname": "Regé-Jean", "lname": "Page", "birthday": "1990/1/1","img": "https://www.imdb.com/name/nm2074546/mediaviewer/rm2894129408/", "imdb":"https://www.imdb.com/name/nm2074546/?ref_=nv_sr_srsg_0" }
+{"fname": "Regé-Jean", "lname": "Page", "birthday": "1990/1/1","img": "https://m.media-amazon.com/images/M/MV5BMTU1NDA2NmYtMmE5NS00NmU2LThkNmYtZjlhMzAzODRjNTVlXkEyXkFqcGdeQXVyNTU4MjE0ODI@._V1_UY317_CR11,0,214,317_AL_.jpg", "imdb":"https://www.imdb.com/name/nm2074546/?ref_=nv_sr_srsg_0" }
 ]

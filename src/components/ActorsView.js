@@ -2,6 +2,7 @@ import React from 'react';
 import Card from 'react-bootstrap/Card'
 import Button from 'react-bootstrap/Button';
 import { CardDeck, Col } from 'react-bootstrap';
+import './ActorsView.css'
 
 
 
@@ -53,7 +54,7 @@ class Actors extends React.Component {
         }
         return (
             <div>
-                <h1 style={{fontFamily:'cursive', fontWeight: 'bold', textAlign: 'center'}} >Actors Gallery</h1>
+                <h1 className="header"  >Actors Gallery</h1>
                 <div style={{ textAlign: 'center' }} >   
                     <input label='Filter Actors: ' placeholder='Enter actor name' value={this.state.filteredSearch} onChange={this.handleSearch} />
                 </div>
